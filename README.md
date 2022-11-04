@@ -18,5 +18,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 # Çalışma Fotoğrafı
 ![Çalışma Fotoğrafı](Ekran Resmi 2022-11-04 15.23.13.png)
-
+[patika](www.patika.dev.)
 
